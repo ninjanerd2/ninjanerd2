@@ -10,10 +10,11 @@
 </p>
 <hr style="border: none; border-top: 2px dashed black;" />
 
-## 🚀 About Me <br>
--  💻 Frontend Software Developer <br>
--  🧠 Always learning and experimenting <br>
--  🛠️ I strive for success in everything I do. <br>
+### ✨ About Me
+- 💻 Frontend Dev looking into crafting websites that look good and work better <br>
+- 🌱 Lifelong learner: today HTML/CSS, tomorrow the world <br>
+- 🎯 I strive for 1% better in every project I touch <br>
+- 🌍 Based in Cape Town, building for the internet <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
