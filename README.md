@@ -1,12 +1,26 @@
-## Hi there,I'm Courage👋
+## Hi there, I'm Courage👋
 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Software+Developer;" alt="Typing SVG" />
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
+</p>
+<hr style="border: none; border-top: 2px dashed black;" />
+
+## 🚀 About Me <br>
+-  💻 Frontend Software Developer <br>
+-  🧠 Always learning and experimenting <br>
+-  🛠️ I strive for success in everything I do. <br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 <hr>
 
-  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="300">
