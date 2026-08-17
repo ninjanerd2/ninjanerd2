@@ -1,4 +1,4 @@
-## Hi there, I'm Courage👋
+## Greetings traveler👋. I'm Courage and welcome to my world🌎 
 
 
 <div align="center">
@@ -15,6 +15,7 @@
 - 🌱 Lifelong learner: today HTML/CSS, tomorrow the world <br>
 - 🎯 I strive for 1% better in every project I touch <br>
 - 🌍 Based in Cape Town, building for the internet <br>
+- ⚡ Fun fact: I turn coffee + curiosity into code <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   
